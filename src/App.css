@@ -34,11 +34,11 @@
 }
 
 .home {
-  background-color: #656565;
+  background-color: #E60F31;
 }
 
 .away {
-  background-color: #af750a;
+  background-color: #B3995D;
 }
 
 .home__name,
@@ -116,7 +116,8 @@
 .homeButtons__touchdown,
 .homeButtons__fieldGoal,
 .awayButtons__touchdown,
-.awayButtons__fieldGoal {
+.awayButtons__fieldGoal,
+.quarterChange_button {
   margin: 1rem;
   border-radius: 4px;
 }
